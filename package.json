@@ -1,0 +1,16 @@
+{
+  "name": "zymurgy",
+  "version": "0.0.1",
+  "description": "match making app based on beer tastes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "alecsavvy@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
+    "lodash": "^4.17.11"
+  }
+}
